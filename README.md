@@ -37,6 +37,8 @@ Now we need to create a job in Amazon Transcribe service
 successfully created a job .
 ![j4](https://user-images.githubusercontent.com/96177047/232238110-4ad26792-7f1d-4f75-b92c-dc9d9a7dbb0d.png)
 successfully audio file converted into text file..
+
+
 In conclusion, Amazon Transcribe is a reliable and efficient solution for transcribing your audio to text. It's user-friendly, customizable, and supports a wide range of audio formats and languages. By using AWS services, you can save time and resources and gain valuable insights from your audio content. Try it out and see how it can benefit your business or personal projects.
 
 
