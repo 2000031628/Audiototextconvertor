@@ -5,6 +5,7 @@ I am so excited to share a new article regarding a simple project which was done
 
 Prerequisits:
 1.creating a s3 bucket
+
 2.creating a job in amazon Transcribe
 
 
@@ -18,7 +19,10 @@ Amazon S3:
 Amazon S3 (Simple Storage Service) is a cloud-based object storage service provided by Amazon Web Services (AWS). S3 is designed to store and retrieve any amount of data from anywhere on the web, making it an ideal storage solution for a wide range of applications and use cases.
 S3 provides durable, scalable, and secure storage for objects, which can range in size from a few kilobytes to terabytes. The service provides a simple web services interface that can be used to store and retrieve data, and it can be integrated with a variety of other AWS services, such as EC2, Lambda, and CloudFront.
 S3 also provides several features such as versioning, lifecycle policies, access controls, encryption, and cross-region replication, which allow users to manage their data effectively and securely. Additionally, S3 can be used to host static websites, and it can be integrated with Amazon Glacier, which is a low-cost archival storage service.
+
 Steps:
+
+
 ->First we need to create a bucket in Amazon s3 Service![a1](https://user-images.githubusercontent.com/96177047/232237804-0d6e7b87-3e67-457f-83d9-7e27c109ddff.png)
 ![a2](https://user-images.githubusercontent.com/96177047/232237920-cb08e912-78c0-4d8f-85c0-914082e0e8dd.png)
 successfully created a bucket
@@ -34,4 +38,7 @@ successfully created a job .
 ![j4](https://user-images.githubusercontent.com/96177047/232238110-4ad26792-7f1d-4f75-b92c-dc9d9a7dbb0d.png)
 successfully audio file converted into text file..
 In conclusion, Amazon Transcribe is a reliable and efficient solution for transcribing your audio to text. It's user-friendly, customizable, and supports a wide range of audio formats and languages. By using AWS services, you can save time and resources and gain valuable insights from your audio content. Try it out and see how it can benefit your business or personal projects.
+
+
+
 Thank you...
